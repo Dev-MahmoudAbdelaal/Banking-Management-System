@@ -25,7 +25,7 @@ public class Bank {
                 accounts[numAcounts++]=new Account(userName);
                 System.out.println("Account created successfully.");
                 }else{
-                    System.out.println("Account number already exists.");
+                System.out.println("Account number already exists.");
                 }
                 
             }
