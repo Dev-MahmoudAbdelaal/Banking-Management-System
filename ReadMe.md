@@ -16,14 +16,3 @@ The Banking Management System is a Java program designed to simplify banking ope
 3. **Creating an Account**: Upon running the program, follow the prompts to create a new account by entering your name.
 4. **Performing Operations**: After creating an account, you can choose from the available operations (deposit, withdraw, or check balance) by selecting the corresponding option.
 
-## Contributions
-
-Contributions to the project are welcome! If you have any suggestions, find bugs, or want to add new features, please open an issue or submit a pull request on GitHub.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or need support, feel free to contact us at [your-email@example.com].
